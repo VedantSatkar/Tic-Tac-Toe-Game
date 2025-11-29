@@ -1,4 +1,4 @@
-````markdown
+
 # 🎮 **Tic-Tac-Toe Game (HTML • CSS • JavaScript)**
 
 An interactive and responsive **Tic-Tac-Toe web game** built using **HTML, CSS, and Vanilla JavaScript**.  
@@ -22,22 +22,22 @@ Perfect for portfolios, web dev practice, and beginners learning front-end devel
 
 ## 🖼️ Output Screenshots
 
-Below are **three UI previews** of the game, stored inside the `Images/` folder:
+Below are **three UI previews** of the game, stored inside the `IMAGES/` folder:
 
 <p align="center">
-  <img src="Images/output1.png" alt="Tic Tac Toe Screenshot 1" width="350">
+  <img src="IMAGES/output1.png" alt="Tic Tac Toe Screenshot 1" width="350">
 </p>
 
 <p align="center">
-  <img src="Images/output2.png" alt="Tic Tac Toe Screenshot 2" width="350">
+  <img src="IMAGES/output2.png" alt="Tic Tac Toe Screenshot 2" width="350">
 </p>
 
 <p align="center">
-  <img src="Images/output3.png" alt="Tic Tac Toe Screenshot 3" width="350">
+  <img src="IMAGES/output3.png" alt="Tic Tac Toe Screenshot 3" width="350">
 </p>
 
-> Rename your images as:  
-> `output1.png`, `output2.png`, `output3.png` inside the **Images/** folder.
+> Make sure your files are named:  
+> `output1.png`, `output2.png`, `output3.png` inside the **IMAGES/** folder.
 
 ---
 
@@ -54,21 +54,21 @@ Below are **three UI previews** of the game, stored inside the `Images/` folder:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/VedantSatkar/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
+git clone https://github.com/VedantSatkar/Tic-Tac-Toe-Game.git
+cd Tic-Tac-Toe-Game
 ````
 
 ### 2️⃣ Run the Game
 
 Open this file in any browser:
 
-```
-index.html
+```text
+INDEX.HTML
 ```
 
 Or use **Live Server** in VS Code:
 
-```
+```text
 Right Click → Open with Live Server
 ```
 
@@ -77,7 +77,7 @@ Right Click → Open with Live Server
 ## ▶️ Gameplay Instructions
 
 * Player **X** starts the game
-* Players tap on an empty box to place X or O
+* Players tap on an empty box to place **X** or **O**
 * Auto-detects:
 
   * ✔ Row Wins
@@ -102,18 +102,18 @@ These animations give the game a clean, modern, and premium feel.
 
 ## 📁 Project Structure
 
-```
-Tic-Tac-Toe/
+```text
+Tic-Tac-Toe-Game/
 │
-├── index.html
-├── style.css
-├── script.js
-└── Images/
+├── INDEX.HTML
+├── STYLE.CSS
+├── APP.JS
+└── IMAGES/
      ├── output1.png
      ├── output2.png
      └── output3.png
 ```
-'''
+
 
 ---
 
@@ -121,11 +121,11 @@ Tic-Tac-Toe/
 
 You can modify:
 
-🎨 **Colors** → in `style.css`
-😎 **Player Icons (X / O)**
-🔊 **Sound Effects**
-🤖 **Add an AI mode (Minimax)**
-📱 **Improve UI responsiveness**
+* 🎨 **Colors** → in `STYLE.CSS`
+* 😎 **Player Icons (X / O)**
+* 🔊 **Sound Effects**
+* 🤖 **Add an AI mode (Minimax)**
+* 📱 **Improve UI responsiveness**
 
 Example — change turn text color:
 
@@ -139,8 +139,7 @@ Example — change turn text color:
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-You can:
+Contributions are welcome! You can:
 
 1. Improve UI
 2. Add animations
@@ -153,10 +152,9 @@ You can:
 ## 📬 Contact
 
 **Vedant Satkar**
-'''
-📧 Email: **[vedantssatkar@gmail.com](mailto:vedantssatkar@gmail.com)**
-🔗 GitHub: [https://github.com/VedantSatkar](https://github.com/VedantSatkar)
-🔗 LinkedIn: [https://linkedin.com/in/vedant-satkar-731bb2298](https://linkedin.com/in/vedant-satkar-731bb2298)
+📧 [vedantssatkar@gmail.com](mailto:vedantssatkar@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/vedant-satkar-731bb2298)
+💻 [GitHub](https://github.com/VedantSatkar)
 
 ---
 
@@ -164,4 +162,3 @@ You can:
 
 This project is licensed under the **MIT License**.
 Free to use, modify, and share.
-'''
