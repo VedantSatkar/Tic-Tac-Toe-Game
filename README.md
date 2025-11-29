@@ -153,6 +153,7 @@ You can:
 ## 📬 Contact
 
 **Vedant Satkar**
+'''
 📧 Email: **[vedantssatkar@gmail.com](mailto:vedantssatkar@gmail.com)**
 🔗 GitHub: [https://github.com/VedantSatkar](https://github.com/VedantSatkar)
 🔗 LinkedIn: [https://linkedin.com/in/vedant-satkar-731bb2298](https://linkedin.com/in/vedant-satkar-731bb2298)
@@ -163,7 +164,4 @@ You can:
 
 This project is licensed under the **MIT License**.
 Free to use, modify, and share.
-
----
-
-````
+'''
