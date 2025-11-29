@@ -25,15 +25,15 @@ Perfect for portfolios, web dev practice, and beginners learning front-end devel
 Below are **three UI previews** of the game, stored inside the `IMAGES/` folder:
 
 <p align="center">
-  <img src="IMAGES/output1.png" alt="Tic Tac Toe Screenshot 1" width="350">
+  <img src="IMAGES/Output1.png" alt="Tic Tac Toe Screenshot 1" width="350">
 </p>
 
 <p align="center">
-  <img src="IMAGES/output2.png" alt="Tic Tac Toe Screenshot 2" width="350">
+  <img src="IMAGES/Output2.png" alt="Tic Tac Toe Screenshot 2" width="350">
 </p>
 
 <p align="center">
-  <img src="IMAGES/output3.png" alt="Tic Tac Toe Screenshot 3" width="350">
+  <img src="IMAGES/Output3.png" alt="Tic Tac Toe Screenshot 3" width="350">
 </p>
 
 > Make sure your files are named:  
